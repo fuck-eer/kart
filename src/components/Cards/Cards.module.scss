@@ -1,0 +1,12 @@
+.CardHolder {
+	width: 99%;
+	margin-left: 0.6%;
+	min-height: 90%;
+
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	flex-flow: row wrap;
+	gap: 2rem;
+	overflow-x: hidden;
+}

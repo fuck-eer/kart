@@ -1,0 +1,16 @@
+.Fullpage {
+	margin-top: 10vh;
+	width: 100vw;
+	min-height: 90vh;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	flex-flow: column nowrap;
+	gap: 2rem;
+	&_Header {
+		height: 10%;
+		h1 {
+			font-weight: 100;
+		}
+	}
+}
